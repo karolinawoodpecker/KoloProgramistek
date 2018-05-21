@@ -1,0 +1,56 @@
+.nav-color {
+  background-color: #292B2C;
+}
+.logo {
+  color: white;
+}
+.carousel-height {
+  max-height: 500px;
+}
+.btn-bigger {
+  font-size: 25px;
+  margin-bottom: 35px;
+}
+.btn-left {
+  display: flex;
+  justify-content: flex-start;
+}
+.btn-right {
+  width: auto;
+  display: flex;
+  justify-content: flex-end;
+}
+.p-right {
+  text-align: right;
+}
+.p-left {
+  text-align: left;
+}
+.p-bigger {
+  font-size: 20px;
+}
+
+
+.round-photo {
+  background-color: gray;
+  border-radius: 100px;
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+}
+.column {
+  text-align: center;
+}
+
+
+.image500 {
+  height: auto;
+  max-width: 445px;
+}
+
+
+.footer {
+  display: flex;
+}
